@@ -1,0 +1,12 @@
+node_modules/
+android/app/build/
+android/.gradle/
+android/build/
+android/local.properties
+*.keystore
+!debug.keystore
+.idea/
+*.iml
+.vscode/
+.DS_Store
+android/app/release/
