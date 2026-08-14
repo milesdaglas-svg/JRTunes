@@ -7,15 +7,15 @@ react {
 }
 
 android {
-    ndkVersion rootProject.ext.ndkVersion
-    buildToolsVersion rootProject.ext.buildToolsVersion
-    compileSdk rootProject.ext.compileSdkVersion
+    ndkVersion "26.1.10909125"
+    buildToolsVersion "34.0.0"
+    compileSdk 34
     namespace "com.jrtunes"
 
     defaultConfig {
         applicationId "com.jrtunes"
-        minSdkVersion rootProject.ext.minSdkVersion
-        targetSdkVersion rootProject.ext.targetSdkVersion
+        minSdkVersion 24
+        targetSdkVersion 34
         versionCode 1
         versionName "1.0"
     }
