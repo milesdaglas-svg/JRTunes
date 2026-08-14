@@ -27,7 +27,18 @@
     "react-native-xml2js": "^1.0.3",
     "axios": "^1.7.4",
     "react-native-svg": "^15.5.0",
-    "react-native-reanimated": "^3.15.1"
+    "react-native-reanimated": "^3.15.1",
+    "@react-native-community/slider": "^4.5.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@babel/preset-env": "^7.20.0",
+    "@babel/runtime": "^7.20.0",
+    "@react-native/babel-preset": "0.74.87",
+    "@react-native/metro-config": "0.74.87",
+    "@react-native-community/cli": "13.6.9",
+    "@react-native-community/cli-platform-android": "13.6.9",
+    "@react-native/gradle-plugin": "0.74.87"
   },
   "engines": {
     "node": ">=18"
