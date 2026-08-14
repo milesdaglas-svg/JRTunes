@@ -9,7 +9,7 @@ react {
 android {
     ndkVersion "26.1.10909125"
     buildToolsVersion "34.0.0"
-    compileSdk 34
+    compileSdkVersion 34
     namespace "com.jrtunes"
 
     defaultConfig {
